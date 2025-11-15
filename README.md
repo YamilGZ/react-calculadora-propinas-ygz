@@ -25,8 +25,8 @@ Aplicación web que permite armar una orden de consumo, calcular el costo total 
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/<tu-usuario>/react-calculadora-propinas-usereducer.git
-cd react-calculadora-propinas-usereducer
+git clone https://github.com/YamilGZ/react-calculadora-propinas-ygz.git
+cd react-calculadora-propinas-ygz
 
 # 2. Instalar dependencias
 npm install
